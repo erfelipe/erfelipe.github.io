@@ -1,5 +1,5 @@
 ---
-title:  "Ordem e Desordem [2]"
+title:  "Ordem e Desordem"
 layout: post
 categories: documentario media
 ---
