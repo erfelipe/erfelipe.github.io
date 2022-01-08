@@ -1,7 +1,7 @@
 ---
 title:  "Ordem e Desordem"
 layout: post
-categories: documentario
+categories: documentario media
 ---
 
 Um documentário praticamente obrigatório para profissionais de TI e CI. 
