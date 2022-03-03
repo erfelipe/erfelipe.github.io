@@ -11,7 +11,7 @@ Recursos para Web Dev:
 
 Recursos que são úteis, outros obrigatórios. 
 
-Editor desktop: https://code.visualstudio.com
+Editor desktop: https://code.visualstudio.com 
 Plug-ins 
 Live Server: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 Prettier – Code formatter: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode 
