@@ -1,10 +1,10 @@
 ---
-title: "Dicas para Web Dev [1]"
+title: "Recursos para Web Dev [1]"
 layout: post
 categories: dicas
 ---
 
-Dicas para Web Dev:
+Recursos para Web Dev:
 
 
 ## Itens importantes para as aulas
