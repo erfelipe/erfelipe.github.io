@@ -29,9 +29,9 @@ Validador: https://validator.w3.org/
 Exemplos com CSS: http://www.csszengarden.com
 
 Contas:
-https://github.com
-https://www.netlify.com/
-https://vercel.com
+https://github.com 
+https://www.netlify.com/ 
+https://vercel.com 
 
 Prototipação (mockup):
 https://www.figma.com 
@@ -42,6 +42,7 @@ https://www.postman.com
 https://insomnia.rest 
 
 JSON fake API: https://jsonplaceholder.typicode.com 
+
 Database (NoSQL for test): https://www.deta.sh 
 
 HTML
