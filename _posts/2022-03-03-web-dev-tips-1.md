@@ -34,6 +34,7 @@ https://www.w3schools.com
 ### 
 
 Gerador de .gitignore: https://www.toptal.com/developers/gitignore 
+
 Validador: https://validator.w3.org/
 
 
@@ -67,7 +68,6 @@ https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element
 
 https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Box_Model/ 
 
-
 ### CSS 
 
 https://developer.mozilla.org/pt-BR/docs/Web/CSS 
@@ -92,7 +92,6 @@ https://developer.mozilla.org/pt-BR/docs/Learn/Forms/Your_first_form
 
 https://www.w3schools.com/html/html_forms.asp  
 
-
 ### Geral 
 
 https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units 
@@ -100,7 +99,6 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_un
 Browse Fonts - Google Fonts: https://fonts.google.com 
 
 https://caniuse.com 
-
 
 ### JS 
 
@@ -117,7 +115,6 @@ https://javascript.info/xmlhttprequest
 https://javascript.info/fetch  
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise 
-
 
 ### Imagens
 
