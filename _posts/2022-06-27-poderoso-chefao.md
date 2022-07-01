@@ -1,7 +1,7 @@
 ---
 title:  "Vou fazer uma oferta que você não pode recusar: Leia este post! "
 layout: post
-categories: Cinema 
+categories: cinema 
 ---
 
 Realmente este filme, ou melhor, esta trilogia está no meu top 5. 

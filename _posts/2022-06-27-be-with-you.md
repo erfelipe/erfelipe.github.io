@@ -1,7 +1,7 @@
 ---
 title:  "Que a tostadeira esteja com você Obbi Wan"
 layout: post
-categories: Cinema 
+categories: cinema 
 ---
 
 O que este cara fez programando... é algo realmente incrível. 
