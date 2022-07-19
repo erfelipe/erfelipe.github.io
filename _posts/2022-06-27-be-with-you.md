@@ -14,5 +14,5 @@ A Marcha Imperial de Darth Vader, uma trilha sonora que vai durar por gerações
 
 E bem mais tecnológico (ei meus alunos de Engenharia da Computação!), a clássica abertura de Star Wars: 
 
-{% include embed.html url="https://www.youtube.com/embed/3KS02q0BUnY?start=124" %}
+{% include embed.html url="https://www.youtube.com/embed/3KS02q0BUnY" %}
 
