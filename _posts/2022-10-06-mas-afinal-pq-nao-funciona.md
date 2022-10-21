@@ -29,6 +29,10 @@ Estamos cheios de "vizinhos" completamente destruídos por esse regime.
 
 {% include embed.html url="https://www.youtube.com/embed/qrkpQ56F8y4" %}
 
+## EUA?! Até tu tio Sam?
+
+{% include embed.html url="https://www.youtube.com/embed/0ZrzO2scAFw" %}
+
 ## Cálculo econômico
 
 {% include embed.html url="https://www.youtube.com/embed/ZyQ3xdcOqKk" %}
