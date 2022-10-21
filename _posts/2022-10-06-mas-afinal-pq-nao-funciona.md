@@ -10,9 +10,11 @@ Isso é realmente intrigante. Esse modelo político NUNCA funcionou em lugar nen
 Estamos cheios de "vizinhos" completamente destruídos por esse regime.
 
 ## Cuba:
+
 {% include embed.html url="https://www.youtube.com/embed/yAvQFvoolyg" %}  
 
 ## Venezuela:
+
 {% include embed.html url="https://www.youtube.com/embed/U0v853LbRsA" %}
 
 {% include embed.html url="https://www.youtube.com/embed/w0LuZFE_BRE" %}
