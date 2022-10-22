@@ -9,7 +9,8 @@ Será que o Visual Studio Code subiu no telhado?
 
 Fleet é um novo editor do mesmo estilo VS Code. Estou usando e verificando suas funcionalidades.
 
-Indico muito as ferramentas da JetBrains. Uma empresa dedicada a softwares para desenvolvimento. Importante que há um modelo de cadastro acadêmico para possibilitar que professores e alunos tenham acessos aos produtos pagos da empresa: [cadastro academico].
+Indico muito as ferramentas da JetBrains. Uma empresa dedicada a softwares para desenvolvimento.
+Importante: há um modelo de cadastro acadêmico para possibilitar que professores e alunos tenham acesso GRATUITO aos produtos pagos da empresa: [cadastro academico].
 
 ## Fleet:
 
