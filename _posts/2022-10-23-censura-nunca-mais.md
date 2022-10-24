@@ -9,15 +9,15 @@ O fato de vivermos em um país que até então permitia liberdade de expressão,
 
 Quem não conhece o passado ou mesmo tem um mínimo de conhecimento sócio-político, corre o sério risco de não reconhecer um terrível mal que acomete diversos países controlados por sistemas autoritários: a perda da liberdade de expressão e das garantias individuais.
 
-Coloco aqui dois filmes que são clássicos e a referência de alguns livros sobre o tema. É imperativo se conscientizar disso, independente de suas convicções políticas, censura e perda da liberdade é um crime para toda a sociedade. TODOS têm direito de se expressar e exercer seu direito de emitir suas opiniões.
+Coloco aqui alguns filmes que são clássicos. E também a referência de alguns livros sobre o tema. É imperativo se conscientizar disso.
+
+Independente de suas convicções políticas, censura e perda da liberdade é um crime para toda a sociedade. TODOS têm direito de se expressar e exercer seu direito de emitir suas opiniões.
 
 ## 1984:
 
 {% include embed.html url="https://www.youtube.com/embed/g2-rxLTVdxI" %}
 
 {% include embed.html url="https://www.youtube.com/embed/YlwlwMQyNds" %}
-
-{% include embed.html url="" %}
 
 ## A revolução dos bichos:
 
