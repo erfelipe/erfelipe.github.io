@@ -16,3 +16,6 @@ E bem mais tecnológico (ei meus alunos de Engenharia da Computação!), a clás
 
 {% include embed.html url="https://www.youtube.com/embed/3KS02q0BUnY" %}
 
+## Bonus 
+
+{% include embed.html url="https://www.youtube.com/embed/4Z3r9X8OahA" %}
