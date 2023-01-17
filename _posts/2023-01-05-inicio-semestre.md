@@ -17,7 +17,7 @@ Uma mensagem que transcende gerações. Tecnologia, fé e sofrimento
 
 Se você viu outros posts do meu blog, já reparou que gosto muito do trabalho do prof. Jordan Peterson. Ele tem uma visão muito ampla e coerente sobre diversos aspectos e nitidamente tem ajudado milhares de pessoas com suas palavras e seus livros. 
 
-Compartilho neste post duas mensagens dele: 
+Compartilho neste post estas mensagens dele: 
 
 {% include embed.html url="https://www.youtube.com/embed/c1DaIJKA0Hk" %}
 
