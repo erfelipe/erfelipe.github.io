@@ -9,7 +9,7 @@ Algumas mensagens inspiradoras para o início de um semestre.
 
 ## Billy Graham  
 
-Uma mensagem que transcende gerações. 
+Uma mensagem que transcende gerações. Tecnologia, fé e sofrimento
 
 {% include embed.html url="https://www.youtube.com/embed/90mj79GqWhc" %}
 
@@ -35,8 +35,9 @@ Gostei muito da mensagem porque tenho uma forte experiência de vida neste senti
 
 {% include embed.html url="https://www.youtube.com/embed/BxY_eJLBflk" %}
 
-## Corrida dos ratos e outras interessantes 
+## Corrida dos ratos (Steve Cutts)
 
 {% include embed.html url="https://www.youtube.com/embed/e9dZQelULDk" %}
 
+{% include embed.html url="https://www.youtube.com/embed/p7LDk4D3Q3U" %}
 
