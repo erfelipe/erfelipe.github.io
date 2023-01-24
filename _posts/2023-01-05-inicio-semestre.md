@@ -4,7 +4,7 @@ layout: post
 categories: educação
 ---
 
-Algumas mensagens inspiradoras para o início de um semestre.  
+Algumas mensagens para o início de um semestre. 🙌🏼 
 
 
 ## Billy Graham  
