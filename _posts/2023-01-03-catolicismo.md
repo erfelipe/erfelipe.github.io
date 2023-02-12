@@ -13,6 +13,10 @@ Um documentário baseado em fatos irrefutáveis sobre o que aconteceu com a igre
 
 {% include embed.html url="https://www.youtube.com/embed/RahB38Rgd6w?start=679" %}
 
+## Vídeo 
+
+{% include embed.html url="https://www.youtube.com/embed/dw5QMmlQgT0" %}
+
 ## Livros 
 
 Alguns livros que certamente são relevantes à temática cristã:
