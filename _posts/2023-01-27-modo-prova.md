@@ -19,3 +19,7 @@ Vou instituir algumas regras básicas para não termos nenhuma intercorrência d
 A prova será recolhida com a nota zero: 
 - Caso seja encontrado aparelhos eletrônicos ou anotações indevidas; 
 - Caso algum aparelho eletrônico em posse do(a) discente emita algum alerta (vibração / som);
+
+## Critérios de correção 
+
+Há basicamente dois tipos de questões: teóricas e relacionadas a código de linguagem de programação. As regras para a resolução das provas sempre são anunciadas e explicadas. Mas é importante ressaltar que erros de português em questões teóricas, serão penalizadas. Não é aceitável estudar um curso universitário e não saber a língua nativa. 
