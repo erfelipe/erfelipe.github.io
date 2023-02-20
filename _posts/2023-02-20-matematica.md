@@ -19,3 +19,7 @@ Um YouTuber engraçado, com vários vídeos interessantes. Este, sobre matemáti
 
 {% include embed.html url="https://www.youtube.com/embed/sW9npZVpiMI" %}
 
+## The Math Sorcerer
+
+{% include embed.html url="https://www.youtube.com/embed/8bM9gDJataM" %}
+
