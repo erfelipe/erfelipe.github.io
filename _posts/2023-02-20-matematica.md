@@ -4,9 +4,9 @@ layout: post
 categories: educação
 ---
 
-Porque a Matemática é importante na Computação.
+Porque a Matemática é importante na Computação.  
   
-   
+  
 ## The Man Who Revolutionized Computer Science With Math
 
 Leslie Lamport, um currículo realmente impressionante e uma pessoa humilde pelo que é pelo que já fez. (O inventor do LaTEx, diga-se por passagem).
