@@ -32,7 +32,12 @@ E, baseado em um ótimo episódio do Black Mirror (série importante para quem g
 o processo cita danos financeiros e operacionais, incluindo gastos com serviços de aconselhamento a alunos e investigações para responder a ameaças feitas contra escolas e alunos nas redes sociais. As informações são do site [GeekWire].
 
 ## Porque deixar as Redes Sociais
+
 {% include embed.html url="https://www.youtube.com/embed/ieYt2cToLLM" %}
 
 [GeekWire]: https://www.geekwire.com/2023/seattle-public-schools-sues-tiktok-youtube-instagram-and-others-seeking-compensation-for-youth-mental-health-crisis/
+
+## Como As Redes Sociais Podem Te Destruir 
+
+{% include embed.html url="https://www.youtube.com/embed/5k1ipqNimYM" %}
 
