@@ -44,6 +44,10 @@ Independente de suas convicções políticas, censura e perda da liberdade é um
 
 {% include embed.html url="https://www.youtube.com/embed/VANLGzhL2vk" %}
 
+## Você está sendo manipulado! 
+
+{% include embed.html url="https://www.youtube.com/embed/FDVmtaODq8I" %}
+
 ## livros
 
 * [1984]
