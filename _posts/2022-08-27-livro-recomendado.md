@@ -1,10 +1,10 @@
 ---
-title:  "Livro obrigatório"
+title:  "Livro recomendado"
 layout: post
 categories: educação 
 ---
 
-Você que é da computação, [livro][pdf] obrigatório:
+Você que é da computação, [livro][pdf] importante:
 
 [Introdução ilustrada à computação][intro], por Larry Gonnick. 
 
