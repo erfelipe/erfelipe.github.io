@@ -55,3 +55,7 @@ Estamos cheios de "vizinhos" completamente destruídos por esse regime.
 
 
 Reflita. Verifique os FATOS e esqueça ideologia e poesia. No final, quando esses regimes se solidificam, a perda das liberdades individuais e o autoritarismo torna o sistema muito, muito difícil de ser derrubado. São gerações de pessoas destinadas à pobreza, fome, miséria. Pense nisso e faça escolhas melhores.
+
+## A verdade sobre o comunismo  
+
+{% include embed.html url="https://www.youtube.com/embed/VIU8WAFixWs" %}
