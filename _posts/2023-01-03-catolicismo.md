@@ -21,7 +21,9 @@ Um documentário baseado em fatos irrefutáveis sobre o que aconteceu com a igre
 
 Alguns livros que certamente são relevantes à temática cristã:
 
-[Michel-Schooyans]
+[Michel-Schooyans](http://www.michel-schooyans.org/index.php?option=com_content&view=article&id=28&Itemid=141&lang=pt)
 
-[Michel-Schooyans]:http://www.michel-schooyans.org/index.php?option=com_content&view=article&id=28&Itemid=141&lang=pt 
+## Marxismo Cultural e Revolução Cultural: O Fascismo e o Marxismo Cultural 
+
+{% include embed.html url="https://www.youtube.com/embed/zR46YW9t4VY" %}
 
