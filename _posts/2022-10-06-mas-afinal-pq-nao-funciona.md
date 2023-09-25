@@ -17,7 +17,7 @@ Estamos cheios de "vizinhos" completamente destruídos por esse regime.
 
 {% include embed.html url="https://www.youtube.com/embed/U0v853LbRsA" %}
 
-{% include embed.html url="https://www.youtube.com/embed/w0LuZFE_BRE" %}
+<!-- {% include embed.html url="https://www.youtube.com/embed/w0LuZFE_BRE" %} -->
 
 {% include embed.html url="https://www.youtube.com/embed/pE-Pk2CcYbA" %}
 
@@ -49,10 +49,9 @@ Estamos cheios de "vizinhos" completamente destruídos por esse regime.
 
 {% include embed.html url="https://www.youtube.com/embed/glRHEMCNlkg" %}
 
-## Você está sendo manipulado! 
+## Resumo da ópera 
 
-{% include embed.html url="https://www.youtube.com/embed/FDVmtaODq8I" %}
-
+{% include embed.html url="https://www.youtube.com/embed/jhByarxXGAs?si=6IJye6kxjUgrAJ2r&amp;start=1800" %}
 
 Reflita. Verifique os FATOS e esqueça ideologia e poesia. No final, quando esses regimes se solidificam, a perda das liberdades individuais e o autoritarismo torna o sistema muito, muito difícil de ser derrubado. São gerações de pessoas destinadas à pobreza, fome, miséria. Pense nisso e faça escolhas melhores.
 
