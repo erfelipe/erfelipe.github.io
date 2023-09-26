@@ -9,9 +9,9 @@ Sempre pensei assim, mas hoje eu tenho convicção desta causa.
 
 Não é sem motivo que determinados grupos ideológicos perseguem com agressividade o controle do ambiente educacional.  
 
-Uma entrevista importante para entender o tema: 
+Uma reflexão importante para entender o tema: 
 
-{% include embed.html url="https://www.youtube.com/embed/b9tkAIvHWFI" %}  
+{% include embed.html url="https://www.youtube.com/embed/1sFJGTdyAxQ?si=B3xe-fb4WXDtHgiX" %}  
 
 E livros igualmente importantes:
 
