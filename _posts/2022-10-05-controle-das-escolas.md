@@ -15,7 +15,7 @@ Uma reflexão importante para entender o tema:
 
 E livros igualmente importantes:
 
-* [A Falacia Socioconstrutivista] - por que os Alunos Brasileiros Deixaram de Aprender a ler e Escrever: por que os Alunos Brasileiros Deixaram de Aprender a ler e Escrever
+* [A Falacia Socioconstrutivista] - Por que os Alunos Brasileiros Deixaram de Aprender a ler e Escrever
 * [O Livro Proibido] - Totalitarismo, Intolerância e Pensamento Único na Universidade
 * [Maquiavel Pedagogo] 
 
