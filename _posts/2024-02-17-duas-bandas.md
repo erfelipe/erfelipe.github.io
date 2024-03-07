@@ -17,7 +17,7 @@ Este vídeo histórico do Producer Like a Pro é muito bom. E no minuto 11:20, e
 
 ## New Order 
 
-New Order por outro lado teve uma discografia bem tímida comparada com Depeche, mas colocaram o nome da banca na história por conta de um hit principalmente. Blue Monday era a trilha sonora das discotecas. Aliás, não havia nem "matinê" que não tocasse Blue Monday e Strange Love (depeche). 
+New Order por outro lado teve uma discografia bem tímida comparada com Depeche, mas colocaram o nome da banda na história por conta de um hit principalmente: Blue Monday era a trilha sonora das discotecas. Aliás, não havia nem "matinê" que não tocasse Blue Monday e Strange Love (depeche). 
 
 {% include embed.html url="https://www.youtube.com/embed/Iyzk1Gwwu7c?si=iGlKQU9m5aV8FRul" %}
 

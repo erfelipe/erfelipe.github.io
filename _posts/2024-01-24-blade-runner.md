@@ -11,7 +11,7 @@ Mas depois de assistir mais de uma vez e perceber a mensagem muito mais ampla do
 
 No primeiro Blade Runner, há um diálogo que pra mim, é uma das cenas mais icônicas do cinema. E pensar que Rutger Hauer improvisou a cena, tendo pensado no diálogo na noite anterior! Sem dúvida "tears in rain" é um profundo questionamento sobre a vida e nossas experiências, sobre o quão precioso é o processo de poder repartir com outros, vivências e momentos que fazem da vida esse momento tão único e especial para cada um. 
 
-A trilha sonora com Vangelis, marcou demais também. Deixo abaixo a filarmônica da dinamarca em mais uma excelente performance. 
+A trilha sonora com Vangelis, marcou demais também. Deixo abaixo a filarmônica da Dinamarca em mais uma excelente performance. 
 
 ## Trilha sonora
 
