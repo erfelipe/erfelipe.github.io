@@ -13,3 +13,9 @@ Indico demais você assinar este canal e acompanhar seus vídeos. Ótimos por si
 
 {% include embed.html url="https://www.youtube.com/embed/8sXRyHI3bLw?si=Mjk2r3fGXivKrgAv" %}
 
+## The Ultimate Web Developer Roadmap For 2024
+
+Outra pessoa que assino e acompanho é o Kyle - Dev Web Simplified. Ele é muito bom também e acelerado (igual o Renato38 😊). Vale muito acompanhar o trabalho dele no YT.
+
+{% include embed.html url="https://www.youtube.com/embed/Gc4Xh8u19NU?si=Ax-xD10gFyBV6YZn" %}
+
