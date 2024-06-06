@@ -18,3 +18,8 @@ Fico me perguntando se quem votou neste projeto de poder realmente esperava algo
 {% include embed.html url="https://www.youtube.com/embed/Klw5AOq-294" %}
 
 {% include embed.html url="https://www.youtube.com/embed/UdtrNSXYf2E?start=74" %}
+
+## Até nossas comprinhas de 50 dólares está na mira de Taxad 
+
+{% include embed.html url="https://www.youtube.com/embed/c-qasttdKkg?si=q9cxZCU7d9R6bb6Z" %}
+

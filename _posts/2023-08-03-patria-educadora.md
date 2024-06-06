@@ -9,7 +9,7 @@ Ora, ora. Mas não é o governo do amor que daria atenção à educação?!  "Go
 
 ## O que é mais perverso, é tirar das crianças e dos jovens, uma CHANCE na vida
 
-{% include embed.html url="https://www.youtube.com/embed/NIBAOJOcOF8" %}
+{% include embed.html url="https://www.youtube.com/embed/8DnUVEqaiBI?si=HNw_TTc24S_wkE8x" %}
 
 ## Criança pode mudar a cabeça do pai se for orientada para isso
 
