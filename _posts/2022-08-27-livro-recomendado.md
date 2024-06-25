@@ -6,6 +6,7 @@ categories: educação
 
 Você que é da computação, livro importante:
 
-[Introdução ilustrada à computação][intro], por Larry Gonnick. 
+[Introdução ilustrada à computação](https://github.com/erfelipe/slides-aulas/blob/main/introducao.ilustrada.ao.computador.pdf), por Larry Gonnick. 
 
-[pdf]: https://datassette.nyc3.cdn.digitaloceanspaces.com/livros/introducao.ilustrada.ao_.computador.pdf 
+
+
