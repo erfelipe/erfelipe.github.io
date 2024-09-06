@@ -13,6 +13,12 @@ No primeiro Blade Runner, há um diálogo que pra mim, é uma das cenas mais ic�
 
 A trilha sonora com Vangelis, marcou demais também. Deixo abaixo a filarmônica da Dinamarca em mais uma excelente performance. 
 
+## Tears in rain
+
+Pra mim, talvez a cena mais marcante do cinema. E pensar que o texto foi improvisado, um dia antes o ator Rutger Hauer pensou nestas palavras e na hora do cena criou este momento que ficou marcado como uma das melhores cenas pela profundidade das palavras e pela atuação quase que perfeita. 
+
+{% include embed.html url="https://www.youtube.com/embed/cDs2hPtvpNI?si=l2kPdiO9ScdR_LPR" %}
+
 ## Trilha sonora
 
 {% include embed.html url="https://www.youtube.com/embed/hMd5_DcLNdE?si=HaLv3XTy3_KIoTsS" %}
