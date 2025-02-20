@@ -15,7 +15,7 @@ A trilha sonora com Vangelis, marcou demais também. Deixo abaixo a filarmônica
 
 ## Tears in rain
 
-Pra mim, talvez a cena mais marcante do cinema. E pensar que o texto foi improvisado, um dia antes o ator Rutger Hauer pensou nestas palavras e na hora do cena criou este momento que ficou marcado como uma das melhores cenas pela profundidade das palavras e pela atuação quase que perfeita. 
+Pra mim, talvez a cena mais marcante do cinema. E pensar que o texto foi improvisado. Um dia antes o ator Rutger Hauer pensou nestas palavras e na hora do cena criou este momento que ficou marcado como uma das melhores cenas do cinema, pela profundidade das palavras e pela atuação. 
 
 {% include embed.html url="https://www.youtube.com/embed/cDs2hPtvpNI?si=l2kPdiO9ScdR_LPR" %}
 
