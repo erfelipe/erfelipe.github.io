@@ -4,7 +4,7 @@ layout: post
 categories: sociedade 
 ---
 
-Finalmente, parece que o merthiolate voltou a arder... essa série fantástica pode estar voltando ao "normal".  
+Finalmente, parece que o merthiolate voltou a arder... essa série fantástica pode estar voltando ao "normal".   
 
 
 ## Se você é da área de tecnologia, alguns filmes e séries são obrigatórias 
