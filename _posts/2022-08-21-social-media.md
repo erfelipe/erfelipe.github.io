@@ -37,10 +37,6 @@ o processo cita danos financeiros e operacionais, incluindo gastos com serviços
 
 [GeekWire]: https://www.geekwire.com/2023/seattle-public-schools-sues-tiktok-youtube-instagram-and-others-seeking-compensation-for-youth-mental-health-crisis/
 
-## Como As Redes Sociais Podem Te Destruir 
-
-{% include embed.html url="https://www.youtube.com/embed/5k1ipqNimYM" %}
-
 ## After A Few Minutes Of Social Media, This Happens 
 
 {% include embed.html url="https://www.youtube.com/embed/Zh-AcF_4Hao?si=TOW0IVZze6fpppXD" %}
