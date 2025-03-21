@@ -11,9 +11,9 @@ Finalmente, parece que o merthiolate voltou a arder... essa série fantástica p
 
 Black Mirror é uma série deste seleto grupo. Os episódios são organizados em temporadas e obviamente, alguns são melhores que outros na concepção de cada expectador. Mas no GERAL, os episódios são muitos bons e outros excelentes.
 
-###  
+### Nem tudo é perfeito 
 
-A série deu fora do tamanho do seu sucesso nas série 5. Temporada0 tenebrosa de tão ruim. A 6 melhorou mas não chegou perto das anteriores. Agora... parece que as coisas estão voltando ao normal na temporada 7. 
+A série deu fora do tamanho do seu sucesso nas série 5. Temporada tenebrosa de tão ruim. A 6 melhorou mas não chegou perto das anteriores. Agora... parece que as coisas estão voltando ao normal na temporada 7. 
 
 ### Análise da Isabela Boscov
 
@@ -52,7 +52,7 @@ Já gerou expectativa...
 <ul>
   <li>USS Callister *</li>
   <li>Crocodilo *</li>
-  <li>Metalhead *</li>
+  <li>Metalhead * (um dos mais preditivos de todos)</li>
   <li>Museu Negro *</li>
   <li>Bandersnatch</li>
 </ul>
