@@ -41,7 +41,7 @@ Já gerou expectativa...
 
 #### Temporada 3
 <ul>
-  <li>Queda Livre</li>
+  <li>Queda Livre (Nem deu tempo de ser preditivo)</li>
   <li>Versão de Testes</li>
   <li>Manda quem Pode</li>
   <li>Engenharia Reversa</li>
@@ -69,5 +69,9 @@ Já gerou expectativa...
   <li>Beyond the Sea *</li>
   <li>Mazey Day</li>
 </ul>
+
+### Essa moça do Futurices tem um canal muito bom 
+
+{% include embed.html url="https://www.youtube.com/embed/VZ4N-srJMjI?si=HDVcH4pPxY4edP0V&amp;start=180" %}
 
 Sinopses na [Wikipédia](https://pt.wikipedia.org/wiki/Lista_de_episódios_de_Black_Mirror) 
