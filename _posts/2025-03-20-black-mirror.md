@@ -25,6 +25,9 @@ Já gerou expectativa...
 
 {% include embed.html url="https://www.youtube.com/embed/1iqra1ojEvM?si=rIvoZuMGIB-rQF1p" %}
 
+
+{% include embed.html url="https://www.youtube.com/embed/gEgd3EmeE50?si=HNMfkPm3kNlQn0ae" %}
+
 ### Meus episódios favoritos... 
 
 #### Temporada 1
