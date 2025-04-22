@@ -24,11 +24,7 @@ E, baseado em um ótimo episódio do Black Mirror (série importante para quem g
 
 {% include embed.html url="https://www.youtube.com/embed/wO3gl0umtgk" %}
 
-## Metaverso: 
-
-{% include embed.html url="https://www.youtube.com/embed/yxjy3b9kiaA" %}
-
-## Escolas públicas nos EUA processam TikTok, YouTube, Facebook, Instagram e Snap, buscando compensação por crise de saúde mental entre jovens:
+### Escolas públicas nos EUA processam TikTok, YouTube, Facebook, Instagram e Snap, buscando compensação por crise de saúde mental entre jovens:
 o processo cita danos financeiros e operacionais, incluindo gastos com serviços de aconselhamento a alunos e investigações para responder a ameaças feitas contra escolas e alunos nas redes sociais. As informações são do site [GeekWire].
 
 ## Porque deixar as Redes Sociais
