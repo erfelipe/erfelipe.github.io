@@ -23,8 +23,6 @@ Compartilho neste post estas mensagens dele:
 
 {% include embed.html url="https://www.youtube.com/embed/kvFlc3O16zg" %}
 
-{% include embed.html url="https://www.youtube.com/embed/opyaVEcV09g" %}
-
 ## Eslen Delanogare  
 
 Gostei muito da mensagem porque tenho uma forte experiência de vida neste sentido. Tudo o que tenho até hoje, seja o trabalho que tenho, bens de conforto, etc... foi por meio da Graça de Deus, dos estudos e do esforço em ser resiliente em meio às derrotas, que não foram poucas. 
