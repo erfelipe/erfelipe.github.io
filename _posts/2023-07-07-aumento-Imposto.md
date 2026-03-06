@@ -4,7 +4,7 @@ layout: post
 categories: sociedade 
 ---
 
-Parabéns aos envolvidos. Custo de vida mais alto, custo de empresas mais alto... rumo à "argentinação".   
+Parabéns aos envolvidos. Custo de vida mais alto, custo de empresas mais alto... rumo a venezuela 2.0.   
 
 
 Leia a íntegra para não ter dúvida: [https://www.convergenciadigital.com.br/Governo/Entidades-de-TI%3A-Reforma-tributaria-aumenta-em-189%25-imposto-para-software%2C-TI-e-Internet-63664.html?UserActiveTemplate=site](https://www.convergenciadigital.com.br/Governo/Entidades-de-TI%3A-Reforma-tributaria-aumenta-em-189%25-imposto-para-software%2C-TI-e-Internet-63664.html?UserActiveTemplate=site) o governo amoroso vai aumentar e muito o custo de TI no Brasil, empobrecendo a população e dificultando o acesso ao ambiente virtual à milhões de pessoas. 

@@ -6,6 +6,7 @@ categories: educação
 
 Depois de passar por algumas experiências ruins no semestre passado, mesmo considerando que lido com pessoas adultas, vou adotar alguns procedimentos de concurso em dia prova. 😔 
 
+
 Tive que ressuscitar esse post antigo depois do segundo semestre de 2025.
 
 ## Por favor... vamos evitar constrangimentos
