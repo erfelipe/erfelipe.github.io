@@ -16,12 +16,16 @@ E bem mais tecnológico (ei meus alunos de Engenharia da Computação!), a clás
 
 {% include embed.html url="https://www.youtube.com/embed/3KS02q0BUnY" %}
 
+O fantasma da Ópera "Drive"! 
+
+{% include embed.html url="https://www.youtube.com/embed/dmoDLyiQYKw?si=3-sSbguf0eGHAuwS" %}
+
 ## Bonus 
 
 {% include embed.html url="https://www.youtube.com/embed/4Z3r9X8OahA" %}
 
 {% include embed.html url="https://www.youtube.com/embed/aH1VCZEFmvQ?si=_WXMHPi3iS-rgF2x" %}
 
-## "O cara" - O Cinema nunca teria o impacto que teve em tantos clássicos por conta de suas trilhas sonoras fantásticas
+## O Cinema nunca teria o impacto que teve em tantos clássicos por conta de suas trilhas sonoras fantásticas
 
 {% include embed.html url="https://www.youtube.com/embed/rqErQ1sn74k?si=4nZbTzklmBoZL7SU" %}
